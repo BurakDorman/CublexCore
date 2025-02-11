@@ -1,0 +1,7 @@
+{
+  "messages.user.welcome": "&b[!] &6Welcome to &eCublex&6, &7%player%&6!",
+  "messages.user.goodbye": "&b[!] &cGoodbye, &7%player%&c!",
+  "title.welcome": "§6Welcome to Cublex!",
+  "subtitle.welcome": "§7Enjoy your stay, %player%!",
+  "error.system.string_key_not_found": "&c[!] &cThe string for &f'%key%' &ccould not be found."
+}

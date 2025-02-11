@@ -1,0 +1,7 @@
+{
+  "messages.user.welcome": "&aCublex sunucusuna hoş geldin, %player%!",
+  "messages.user.goodbye": "&cGüle güle, %player%!",
+  "title.welcome": "§6Cublex'e Hoş Geldin!",
+  "subtitle.welcome": "§7İyi oyunlar, %player%!",
+  "error.system.string_key_not_found": "&c'%key%' anahtarı için mesaj bulunamadı."
+}

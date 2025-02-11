@@ -1,0 +1,8 @@
+name: CublexCore
+version: '1.0'
+main: net.cublex.core.Main
+api-version: '1.21'
+load: STARTUP
+authors: [ DeveloperBD1 ]
+description: Essential features.
+website: https://cublex.net

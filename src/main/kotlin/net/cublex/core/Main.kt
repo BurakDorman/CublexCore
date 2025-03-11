@@ -4,7 +4,7 @@ import net.cublex.core.listeners.JoinListener
 import net.cublex.core.listeners.LocaleChangeListener
 import net.cublex.core.localization.LanguageManager
 import org.bukkit.plugin.java.JavaPlugin
-
+// This is a comment by the author.
 class Main : JavaPlugin() {
 
     companion object {
@@ -20,7 +20,7 @@ class Main : JavaPlugin() {
         saveDefaultConfig()
         registerEvents()
 
-        logger.info("✅ CublexCore has been successfully enabled!")
+        logger.info("✅ CublexCore has been successfully enabled!!!")
     }
 
     override fun onDisable() {

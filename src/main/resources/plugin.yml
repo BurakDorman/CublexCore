@@ -1,0 +1,8 @@
+name: CublexCore
+version: '1.0-SNAPSHOT'
+main: net.cublex.cublexCore.Main
+api-version: '1.21'
+load: STARTUP
+authors: [MBD]
+description: Spigot development library, built for the latest version.
+website: https://cublex.net
